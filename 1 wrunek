@@ -1,0 +1,6 @@
+  If(d<0)
+    {
+        cout << "" <<endl;
+    }
+    
+    //uzupełnić komunikat
