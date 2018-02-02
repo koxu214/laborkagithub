@@ -1,0 +1,7 @@
+ If(d>0)
+    {
+        cout << "x1=" <<  << endl;
+        cout << "x2=" <<  << endl;
+    }
+
+   // dodać obliczenia
