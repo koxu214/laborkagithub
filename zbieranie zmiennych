@@ -1,0 +1,8 @@
+    cout << Podaj A" << endl;
+    cin >> a;
+    cout << "Podaj B"  endl;
+    cin >> b;
+    cout << "Podaj C" << endl;
+    cin >> c
+    
+    //poprawić błędy
