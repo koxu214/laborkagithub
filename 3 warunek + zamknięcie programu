@@ -2,5 +2,7 @@ If(d==0)
     {
         cout << "x=" <<  << endl;
     }
-    
+        getch();
+    return 0;
+}
     //dodać obliczenia
