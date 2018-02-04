@@ -1,8 +1,9 @@
 If(d==0)
     {
-        cout << "x=" <<  << endl;
+        cout << "x=" << -b/2a << endl;
     }
         getch();
     return 0;
 }
     //dodać obliczenia
+    //dodane obliczenia
