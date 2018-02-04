@@ -1,7 +1,8 @@
  If(d>0)
     {
-        cout << "x1=" <<  << endl;
-        cout << "x2=" <<  << endl;
+        cout << "x1=" <<-b+sqrtd/2a<< endl;
+        cout << "x2=" <<-b-sqrtd/2a<< endl;
     }
 
    // dodać obliczenia
+   // obliczenia dodane
