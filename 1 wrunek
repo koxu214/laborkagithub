@@ -1,6 +1,8 @@
   If(d<0)
     {
-        cout << "" <<endl;
+        cout << "Nie ma pierwiastków" <<endl;
     }
     
     //uzupełnić komunikat
+    //uzupełniony
+    
