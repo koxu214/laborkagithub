@@ -1,3 +1,4 @@
-d = b*b + 4*a*c;
+d = b*b - 4*a*c;
 
 //zmienic + na -
+//zmienione
